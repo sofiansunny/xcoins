@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomeComponent component Shallow rendering 1`] = `
+<TouchableOpacity
+  activeOpacity={0.7}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#d63963",
+        "borderRadius": 5,
+        "elevation": 8,
+        "paddingHorizontal": 12,
+        "paddingVertical": 10,
+      },
+      Object {},
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "alignSelf": "center",
+          "color": "#ffffff",
+          "fontSize": 18,
+          "textTransform": "uppercase",
+        },
+        Object {},
+      ]
+    }
+  />
+</TouchableOpacity>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomeComponent component Shallow rendering 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "fontFamily": "Lato-Regular",
+      },
+      Object {},
+    ]
+  }
+/>
+`;

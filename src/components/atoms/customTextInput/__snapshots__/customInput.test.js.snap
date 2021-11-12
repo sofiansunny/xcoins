@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomeComponent component Shallow rendering 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderColor": "#ffffff",
+        "flexDirection": "row",
+      },
+      Object {},
+    ]
+  }
+>
+  <TextInput
+    onChangeText={[Function]}
+    placeholder={null}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#ffffff",
+          "color": "#000000",
+          "fontSize": 31.428571428571427,
+          "padding": 0,
+        },
+        Object {
+          "flex": 1,
+        },
+        Object {},
+      ]
+    }
+    value="undefined"
+  />
+</View>
+`;

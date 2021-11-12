@@ -1,0 +1,1 @@
+export const LATEST_EXCHANGE_RATES = 'latest?access_key=ecc92ddfc355cb6aa42280b32b9c08ad'

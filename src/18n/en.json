@@ -1,0 +1,11 @@
+{
+  "to": "To",
+  "from": "From",
+  "you_send": "You send",
+  "you_receive": "You receive",
+  "balance": "Balance",
+  "xcoin_wallet": "XCoins Wallet",
+  "insufficient_balance": "insufficient balance for transaction",
+  "exchange": "Exchange"
+
+}

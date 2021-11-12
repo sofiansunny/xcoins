@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SomeComponent component Shallow rendering 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#e4f1f7",
+        "borderRadius": 7.857142857142857,
+        "borderWidth": 2.142857142857143,
+        "justifyContent": "center",
+        "paddingHorizontal": 42.857142857142854,
+        "paddingVertical": 21.428571428571427,
+      },
+      Object {},
+    ]
+  }
+/>
+`;

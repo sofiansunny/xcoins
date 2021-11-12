@@ -1,0 +1,6 @@
+module Pods_ExchangeApp {
+  umbrella header "Pods-ExchangeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
